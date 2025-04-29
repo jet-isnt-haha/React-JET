@@ -4,8 +4,9 @@ import "./index.css";
 // import App from "./App";
 // import App2 from "./App2";
 // import App3 from "./App3";
-import App4 from "./App4";
-import Test1 from "./test/forwardRef";
+// import App4 from "./App4";
+// import Test1 from "./test/forwardRef";
+import App5 from "./App5";
 // import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(
@@ -13,7 +14,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   // <React.StrictMode>
-  <Test1 />
+  <App5 />
   // </React.StrictMode>
 );
 
