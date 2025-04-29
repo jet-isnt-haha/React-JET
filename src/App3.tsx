@@ -21,7 +21,7 @@ function reducer(state: Data, action: Action) {
   }
   return state;
 }
-
+//在React中只要涉及到state的修改，就必须返回新的对象，不论是useState还是useReducer
 function App3() {
   //第一个参数是reducer，第二个是初始数据
   /*   const [res, dispatch] = useReducer(reducer, { result: 0 });

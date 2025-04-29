@@ -3,15 +3,17 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 // import App from "./App";
 // import App2 from "./App2";
-import App3 from "./App3";
-import reportWebVitals from "./reportWebVitals";
+// import App3 from "./App3";
+import App4 from "./App4";
+import Test1 from "./test/forwardRef";
+// import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
   // <React.StrictMode>
-  <App3 />
+  <Test1 />
   // </React.StrictMode>
 );
 
