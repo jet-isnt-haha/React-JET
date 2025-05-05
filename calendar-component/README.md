@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,13 +44,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# Mini-Calendar
-使用React+ts写的mini-calendar组件
-
-```
-npm install
-npm run start
-```
->  [参考](https://idbi-blog.netlify.app/posts/%E5%B0%8F%E5%86%8C-React%E9%80%9A%E5%85%B3%E7%A7%98%E7%B1%8D/%E7%AC%AC07%E7%AB%A0%E2%80%94%E7%BB%84%E4%BB%B6%E5%AE%9E%E6%88%98%EF%BC%9A%E8%BF%B7%E4%BD%A0Calendar.md)
->>>>>>> 2abd3a2aa63e28e29a358915fea55aa33393baa3
